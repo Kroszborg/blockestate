@@ -9,7 +9,7 @@ This project is a full-stack web application developed as a clone of Airbnb usin
 1. **Clone the Repository:**
 
    ```bash
-   git clone (https://github.com/Krishnav1237/Block_estate)
+   git clone (https://github.com/Kroszborg/blockestate)
 
    ```
 
